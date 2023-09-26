@@ -1,0 +1,61 @@
+body{
+    background-color: lightgrey;
+}
+
+table{
+    margin: auto;
+    width: 800px;
+    border-collapse: collapse;
+    margin-top: 25px;
+}
+
+h1{
+    margin: auto;
+    text-align: center;
+    font-size: 18pt;
+}
+
+h2{
+    margin: auto;
+    text-align: center;
+    font-style: italic;
+}
+
+th, td{
+    text-align: center;
+    border: 1px solid black;
+    
+}
+
+img{
+    height: 75px;
+}
+
+#kep{
+    width: 120px;
+}
+
+#termek_neve{
+    width: 200px;
+}
+
+#mennyiseg, #netto_ar, #brutto_ar{
+    width: 100px;
+}
+
+#afa_szazalek{
+    width: 50px;
+}
+
+.sotet_szurke{
+    background-color: grey;
+    color: white;
+}
+
+#jobbra{
+    text-align: right;
+}
+
+p{
+    font-weight: bold;
+}
